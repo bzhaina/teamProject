@@ -13,7 +13,7 @@ import {
     dispatch({
         type: LOGIN_USER
     });
-    Axios.post(process.env.REACT_APP_AUTH_URL + '/api/auth/login',
+    Axios.post(process.env.REACT_APP_API_USERS_URL + "/users",
         {
             email,
             password
@@ -25,6 +25,7 @@ import {
             dispatch({
                 type: LOGIN_USER_SUCCESS
             });
+            // dispatch(fetchUserSuccess(data))
         })
         .catch(err => dispatch({
             type: LOGIN_USER_FAILED,
@@ -32,6 +33,10 @@ import {
         }));
  };
 
+ export const fetchUserSuccess = (data) => ({
+    type: LOGIN_USER_SUCCESS,
+    payload: data
+});
 
  export const registerUser = ({ email, password }, cb = () => {}) => (dispatch) =>{
     dispatch({

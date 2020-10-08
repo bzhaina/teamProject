@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "name": "name",
+      "email": "djaina9595@gmail.com",
+      "phone": "0990500700",
+      "password": "qwerty"
+    },
+    {
+      "email": "demo@demo.com",
+      "password": "qwerty",
+      "id": 1
+    },
+    {
+      "email": "djaina9595@gmail.com",
+      "password": "qwerty",
+      "id": 2
+    },
+    {
+      "email": "djaina9595@gmail.com",
+      "password": "qwerty",
+      "id": 3
+    },
+    {
+      "email": "djaina9595@gmail.com",
+      "password": "qwerty",
+      "id": 4
+    },
+    {
+      "email": "djaina9595@gmail.com",
+      "password": "qwerty",
+      "id": 5
+    },
+    {
+      "email": "djaina9595@gmail.com",
+      "password": "qwerty",
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "email": "djaina9595@gmail.com",
+      "password": "qwerty",
+      "id": 9
+    },
+    {
+      "email": "djaina9595@gmail.com",
+      "password": "qwertyй",
+      "id": 10
+    },
+    {
+      "email": "djaina9595@gmail.com",
+      "password": "qwerty",
+      "id": 11
+    },
+    {
+      "email": "djaina9595@gmail.com",
+      "password": "йцукен",
+      "id": 12
+    },
+    {
+      "email": "djaina9595@gmail.com",
+      "password": "qwerty",
+      "id": 13
+    },
+    {
+      "email": "djaina9595@gmail.com",
+      "password": "qwerty111",
+      "id": 14
+    },
+    {
+      "email": "demo@demo.com",
+      "password": "qwerty",
+      "id": 15
+    }
+  ]
+}
