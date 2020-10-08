@@ -1,0 +1,24 @@
+{
+    "admins": [
+        {
+            "id": 0,
+            "name": "zhaina",
+            "password": 12345
+        },
+        {
+            "id": 1,
+            "name": "ali",
+            "password": 12345
+        },
+        {
+            "id": 2,
+            "name": "atakhan",
+            "password": 12345
+        },
+        {
+            "id": 3,
+            "name": "admin",
+            "password": 12345
+        }
+    ]
+}
